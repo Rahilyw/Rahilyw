@@ -1,5 +1,9 @@
-<h1 align="center">Hey there, I'm Rahil 👋</h1>
-<h3 align="center">Building AI-powered products, one commit at a time</h3>
+<p align="center">
+  <img src="assets/header-banner.png" width="600" alt="Hey there, I'm Rahil" />
+</p>
+<p align="center">
+  <img src="assets/subheader-banner.png" width="560" alt="Building AI-powered products, one commit at a time" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=3rd+Year+CS+%40+University+of+Victoria;CTO+%40+Serendira;Building+with+Azure+OpenAI+%2B+MCP+%2B+RAG;Currently+shipping+Quest!+%F0%9F%8E%AE" alt="Typing SVG" />
@@ -48,7 +52,7 @@
 ---
 
 ### 🐍 Contribution Snake
- 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahilyw/Rahilyw/output/github-contribution-grid-snake-dark.svg" />
@@ -57,17 +61,15 @@
   </picture>
 </p>
 
-
 ### 📊 GitHub Stats
- 
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahilyw&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilyw&layout=compact&hide_border=true" />
 </p>
 
 ---
- 
+
 <p align="center">
-  <i>Connect with me to build the future!</i>
+  <i>Hear the past. Build the future.</i>
 </p>
- 
