@@ -68,6 +68,6 @@
 ---
  
 <p align="center">
-  <i>Hear the past. Build the future.</i>
+  <i>Connect with me to build the future!</i>
 </p>
  
