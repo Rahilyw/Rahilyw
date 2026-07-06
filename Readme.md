@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rahil 👋</h1>
+<h1 align="center">Hey there, I'm Rahil 👋</h1>
 <h3 align="center">Building AI-powered products, one commit at a time</h3>
 
 <p align="center">
