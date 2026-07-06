@@ -4,11 +4,9 @@
 <p align="center">
   <img src="assets/subheader-banner.png" width="560" alt="Building AI-powered products, one commit at a time" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=3rd+Year+CS+%40+University+of+Victoria;CTO+%40+Serendira;Building+with+Azure+OpenAI+%2B+MCP+%2B+RAG;Currently+shipping+Quest!+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rahil-wijeyesekera-a2133322b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
