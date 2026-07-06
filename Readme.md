@@ -47,15 +47,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-eight.vercel.app/api?username=Rahilyw&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=Rahilyw&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahilyw&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahilyw/Rahilyw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahilyw/Rahilyw/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rahilyw/Rahilyw/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
