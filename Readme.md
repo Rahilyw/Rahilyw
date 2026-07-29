@@ -56,16 +56,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rahilyw/Rahilyw/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahilyw&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilyw&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Hear the past. Build the future.</i>
-</p>
