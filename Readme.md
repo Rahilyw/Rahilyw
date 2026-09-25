@@ -2,7 +2,7 @@
 <h3 align="center">Building AI-powered products, one commit at a time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=3rd+Year+CS+%40+University+of+Victoria;CTO+%40+Serendira;Building+with+Azure+OpenAI+%2B+MCP+%2B+RAG;Currently+shipping+Quest!+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=4th+Year+CS+%40+University+of+Victoria;CTO+%40+Serendira;Building+with+Azure+OpenAI+%2B+MCP+%2B+RAG;Currently+shipping+Quest!+%F0%9F%8E%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year **Computer Science** undergrad at the **University of Victoria** (Software Systems, Co-op)
+- 🎓 4rd-year **Computer Science** undergrad at the **University of Victoria** (Software Systems, Co-op)
 - 🛠️ CTO & sole engineer at **Serendira** — a talent platform connecting enterprises with remote professionals
 - 🤖 Deep in **AI agents, RAG pipelines, and MCP** — Azure OpenAI, Microsoft Foundry, and Claude/Anthropic tooling
 - 🌊 From an island, now building in **Victoria, BC**
